@@ -90,7 +90,7 @@ figcaption {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-input[type="email"] {
+inpu[type="email"] {
     background: transparent;
     border: 1px solid #ffffff;
     padding: .8em .7em;
