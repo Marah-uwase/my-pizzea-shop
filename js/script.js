@@ -13,7 +13,7 @@ $(function () {
         //Function order
         let order = (f, s, c, t, n, total) => {
             return {f, s, c, t, n, total};
-        }
+        };
   
       //check price
       let price, totalPrice;
