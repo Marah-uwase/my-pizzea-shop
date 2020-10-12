@@ -33,7 +33,7 @@ $(function () {
                       }
                       break;
                   case size = "medium":
-                      price = 5;
+                      price = 5
                       if (crust === "thin") {
                           totalPrice = (price * number) + 3;
                       } else if (crust === "thick") {
