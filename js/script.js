@@ -15,7 +15,7 @@ $(function () {
             return {f, s, c, t, n, total};
         };
   
-      //check price
+      //check pric
       let price, totalPrice;
       switch (flavour) {
           case flavour = "maccaroni and cheese":
