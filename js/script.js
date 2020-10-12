@@ -384,9 +384,7 @@ $(function () {
 
       }
 
-      //Execute order function
-      let newOrder = order(flavour, size, crust, topping, number, totalPrice);
-      console.log(newOrder); // test func
+      
 
       //create a new object
       // let myOrder = JSON.stringify(JSON.parse(newOrder));
