@@ -179,7 +179,7 @@ h4 {
 
 .menu {
     margin-top: 30px;
-    background-image: url("../images/sec/b4.jpg");
+    background-image: url("../img/bg pizza.jpg");
     padding: 0;
 }
 
@@ -195,7 +195,7 @@ h4 {
 
 /*Background pic*/
 .landing {
-    background-image: url("../img/ckn.jpeg");
+    background-image: url("../img/pb.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -305,7 +305,7 @@ figure img {
     .menu-overlay {
         width: 100%;
         height: inherit;
-        background-color: rgba(0, 0, 0, 0.7);
+        background-color: rgba(0, 0, 0, 0.6);
     }
 
     .karibu-img {
