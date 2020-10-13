@@ -11,3 +11,9 @@ click personal > add personal pizza to ingredient list; moves to topping screen
 3. the user chose the crust to be made.
 4. the user can choose their favourite toppings accordingly.
 5. and the user have to confirm if the order will be delivered or if he will come to pick it up.
+## Technologies Used
+HTML
+CSS
+Javascript
+Bootstrap
+jQuery
