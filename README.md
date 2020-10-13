@@ -17,3 +17,10 @@ CSS
 Javascript
 Bootstrap
 jQuery
+# assistance
+for more information consult me on maranahuwase12@gmail.com
+or clone the repository for further changes.
+# License
+This webpage is licensed under the MIT license.
+
+Copyright (c) 2020 Marah-uwase
